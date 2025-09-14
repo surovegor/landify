@@ -18,3 +18,5 @@ burgerButton.addEventListener('click', () => {
   burgerButton.classList.toggle('active');
   header.classList.toggle('menu-opened');
 });
+
+document.querySelector('.year').textContent = new Date().getFullYear();
