@@ -78,7 +78,6 @@ img {
   font-size: 14px;
   z-index: 1000;
   transition: background-color 0.7s ease 0.7s;
-  color: #18191F;
 }
 .header__wrapper {
   display: flex;
@@ -147,7 +146,7 @@ img {
   padding-top: 20px;
 }
 .header__menu-dropdown-link:hover {
-  color: rgb(0, 179, 255);
+  color: #03b0fa;
 }
 .social {
   display: flex;
@@ -255,7 +254,7 @@ img {
   }
 }
 .hero {
-  background-image: url(/images/Background.png);
+  background-image: url(./images/Background.png);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: 100% 100%;
@@ -455,7 +454,7 @@ img {
   line-height: 28px;
 }
 .reviews__post {
-  color: rgb(150, 155, 171);
+  color: #969bab;
   font-weight: 500;
   font-size: 14px;
 }
@@ -618,10 +617,10 @@ img {
   gap: 8px;
   font-weight: 700;
   font-size: 20px;
-  color: rgb(140, 48, 245);
+  color: #8c30f5;
 }
 .app__link:hover {
-  color: rgb(91, 0, 194);
+  color: #5b00c2;
   transition: .3s;
 }
 @media (max-width: 868px) {
@@ -778,7 +777,7 @@ img {
   flex-direction: column;
 }
 .footer__menu-link:hover {
-  color:  rgb(46, 197, 206);
+  color:  #2ec5ce;
   transition: .3s;
 }
 @media (max-width: 660px) {
