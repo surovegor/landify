@@ -254,7 +254,7 @@ img {
   }
 }
 .hero {
-  background-image: url(./images/Background.png);
+  background-image: url(../images/Background.png);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: 100% 100%;
